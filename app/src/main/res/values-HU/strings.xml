@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kalkulator for Android</string>
+    <string name="action_info">Információ</string>
+    <string name="del_button_text">Töröl</string>
+    <string name="input_hint">Kifejezés</string>
+</resources>

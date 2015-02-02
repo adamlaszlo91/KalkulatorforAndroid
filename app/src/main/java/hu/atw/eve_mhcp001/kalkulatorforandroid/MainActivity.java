@@ -112,13 +112,13 @@ public class MainActivity extends ActionBarActivity implements MemoryFragment.On
                 if (inputText.length() > 0) {
                     mMemory.add(inputText);
                     Toast.makeText(this,
-                            "Added to memory.", Toast.LENGTH_SHORT).show();
+                            getResources().getString(R.string.memory_add), Toast.LENGTH_SHORT).show();
                 }
             } else if (buttonFunction.equals("M-")) {
                 // removes only if it exists in memory
                 mMemory.remove(inputText);
                 Toast.makeText(this,
-                        "Removed from memory.", Toast.LENGTH_SHORT).show();
+                        getResources().getString(R.string.memory_rem), Toast.LENGTH_SHORT).show();
             }
         }
     }

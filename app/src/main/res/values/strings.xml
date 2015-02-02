@@ -4,7 +4,8 @@
     <string name="app_name">Kalkulator for Android</string>
     <string name="action_info">Info</string>
     <string name="del_button_text">Del</string>
-    <string name="input_hint">Expression here</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_hint">Expression here.</string>
+    <string name="memory_add">Added to memory.</string>
+    <string name="memory_rem">Removed from memory.</string>
 
 </resources>

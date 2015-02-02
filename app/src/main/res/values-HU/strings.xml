@@ -4,5 +4,7 @@
     <string name="app_name">Kalkulator for Android</string>
     <string name="action_info">Információ</string>
     <string name="del_button_text">Töröl</string>
-    <string name="input_hint">Kifejezés</string>
+    <string name="input_hint">Kifejezés.</string>
+    <string name="memory_add">Tárolva a memóriában.</string>
+    <string name="memory_rem">Törölve a memóriából.</string>
 </resources>
